@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- bg_message_outgoing.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#4CAF50"/> <!-- Green color -->
+    <corners android:radius="8dp"/>
+    <padding android:left="8dp" android:top="4dp" android:right="8dp" android:bottom="4dp"/>
+</shape>
